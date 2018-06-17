@@ -1,2 +1,2 @@
 # Presentations
-Presentations for companies on potential threats and how to stay protected from Cyber threats and attacks.
+These powerpoints discuss the threats and vulnerabilities of different companies and software. I would present these to companies to make thm aware of the dangers and methods used to protect from copycat attacks. 
